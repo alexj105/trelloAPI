@@ -1,0 +1,1811 @@
+
+2021-09-15T11:43:22.429Z board was created
+2021-09-15T11:46:16.865Z board was created
+2021-09-15T12:03:01.979Z Object already exist
+2021-09-15T12:03:14.654Z Minsk17 was deleted successfully
+2021-09-15T12:03:37.024Z Object doesn't exist
+2021-09-15T12:03:47.514Z Minsk17 was created successfully
+2021-09-15T12:03:51.212Z Minsk17 was updated successfully
+2021-09-15T12:03:58.554Z lucies board was created successfully
+2021-09-15T12:04:16.758Z lucies board was deleted successfully
+2021-09-15T12:04:19.701Z lucies board was created successfully
+2021-09-15T12:06:21.046Z lucies board 2 was updated successfully
+2021-09-15T12:06:26.780Z lucies board 2 was updated successfully
+2021-09-16T12:21:39.066Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:22:07.312Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:22:07.745Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:22:09.055Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:22:10.391Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:22:29.754Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:22:31.144Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:23:31.486Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:23:34.050Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:24:43.706Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:25:05.916Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:26:29.859Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:26:41.524Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:26:44.269Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:26:45.889Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:26:59.017Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:27:15.897Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:27:21.512Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:27:22.836Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-16T12:29:31.760Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T07:40:52.896Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1320:16)
+    at listenInCluster (net.js:1368:12)
+    at Server.listen (net.js:1454:7)
+    at Function.listen (/Users/aliaksandr.savelyeu/study/Trello/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/app.js:16:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+2021-09-17T10:58:16.559Z uncaughtException: authorize is not defined
+ReferenceError: authorize is not defined
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js:10:7)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/app.js:4:22)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2021-09-17T11:03:11.330Z uncaughtException: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js:7:19)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:04:15.433Z uncaughtException: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js:7:19)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:04:25.215Z uncaughtException: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js:7:19)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:04:31.835Z uncaughtException: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '_helpers/authorize'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js:7:19)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:05:07.742Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:05:09.205Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:23:43.227Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:35:11.421Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:36:13.756Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:39:51.208Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:40:01.721Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:40:04.734Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:40:29.733Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:40:34.850Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:41:19.014Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:41:48.345Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:42:12.291Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T11:42:34.584Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T12:20:03.969Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T12:20:06.269Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T12:20:12.904Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:2:20)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T12:37:04.083Z uncaughtException: authRouter is not defined
+ReferenceError: authRouter is not defined
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/app.js:13:9)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47
+2021-09-17T12:37:17.688Z uncaughtException: authRouter is not defined
+ReferenceError: authRouter is not defined
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/app.js:7:1)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47
+2021-09-17T12:37:48.153Z uncaughtException: Cannot find module '../user.service'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '../user.service'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js:3:21)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T12:38:14.153Z uncaughtException: Identifier 'require' has already been declared
+/Users/aliaksandr.savelyeu/study/Trello/src/users/user.service.js:1
+const { require } = require('app-root-path');
+        ^
+
+SyntaxError: Identifier 'require' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js:3:21)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2021-09-17T12:38:43.387Z uncaughtException: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/users/user.service.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'config.json'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/users/user.service.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/users/user.service.js:1:16)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T12:39:05.309Z uncaughtException: Cannot find module 'helpers/role'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/users/user.service.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module 'helpers/role'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/users/user.service.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/auth.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/users/user.service.js:3:14)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T12:39:22.097Z uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/Users/aliaksandr.savelyeu/study/Trello/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/app.js:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47
+2021-09-17T12:39:52.125Z uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (/Users/aliaksandr.savelyeu/study/Trello/node_modules/express/lib/application.js:210:11)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/app.js:14:5)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:76:12)
+    at internal/main/run_main_module.js:17:47
+2021-09-17T12:41:09.191Z username is not defined
+2021-09-17T12:47:36.646Z admin  logged in
+2021-09-17T12:48:33.366Z admin logged in
+2021-09-17T12:50:20.848Z uncaughtException: authorize is not defined
+ReferenceError: authorize is not defined
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js:8:8)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/app.js:5:22)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2021-09-17T12:50:58.389Z admin logged in
+2021-09-17T12:54:59.468Z Minsk17 was created successfully
+2021-09-17T12:56:21.025Z Object already exist
+2021-09-17T13:25:17.043Z uncaughtException: Unexpected token '-'
+/Users/aliaksandr.savelyeu/study/Trello/src/middleware/authorize.js:3
+let a -5
+      ^
+
+SyntaxError: Unexpected token '-'
+    at wrapSafe (internal/modules/cjs/loader.js:1001:16)
+    at Module._compile (internal/modules/cjs/loader.js:1049:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/routes/boards.js:9:19)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+2021-09-17T13:31:23.541Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:32:48.329Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:34:29.749Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:34:34.008Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:34:47.694Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:37:16.199Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:37:22.892Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:37:31.822Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:38:52.458Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:39:15.106Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:39:42.261Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:40:12.539Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:40:58.371Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:41:03.292Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:41:05.224Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:41:46.078Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:41:57.823Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:42:06.695Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:42:14.919Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:42:24.428Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:43:37.765Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:44:03.637Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:44:40.710Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:46:32.282Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:46:34.752Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:47:14.365Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:47:17.998Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:47:51.598Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:47:57.718Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:48:05.697Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:49:30.567Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:49:42.668Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:49:49.643Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:49:51.184Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:50:12.475Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:50:14.605Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:50:57.289Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:53:49.034Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:53:53.595Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-09-17T13:54:14.955Z uncaughtException: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+Error: Cannot find module '@joi/date'
+Require stack:
+- /Users/aliaksandr.savelyeu/study/Trello/src/models/card.js
+- /Users/aliaksandr.savelyeu/study/Trello/src/routes/cards.js
+- /Users/aliaksandr.savelyeu/study/Trello/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:902:15)
+    at Function.Module._resolveFilename (/Users/aliaksandr.savelyeu/study/Trello/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:746:27)
+    at Module.require (internal/modules/cjs/loader.js:974:19)
+    at require (internal/modules/cjs/helpers.js:92:18)
+    at Object.<anonymous> (/Users/aliaksandr.savelyeu/study/Trello/src/models/card.js:1:35)
+    at Module._compile (internal/modules/cjs/loader.js:1085:14)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1114:10)
+    at Module.load (internal/modules/cjs/loader.js:950:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:790:14)
+2021-10-05T12:04:09.275Z admin logged in
+2021-10-05T12:06:43.161Z Minsk17 was created successfully
+2021-10-05T12:17:02.378Z Object already exist
+2021-10-05T12:19:42.586Z Minsk17 was updated successfully
+2021-10-05T12:25:09.433Z Board was not founded
+2021-10-05T12:25:20.456Z Lucy was created successfully
+2021-10-05T12:25:43.296Z lucies board was created successfully
+2021-10-05T14:06:43.406Z Object already exist
+2021-10-05T14:06:51.776Z Board was not founded
+2021-10-05T14:07:02.378Z lucies board1 was created successfully
+2021-10-05T14:07:26.707Z lucies board was deleted successfully
+2021-10-05T14:07:38.391Z Object doesn't exist
+2021-10-05T14:07:42.082Z Object doesn't exist
+2021-10-05T14:07:46.545Z Object doesn't exist
+2021-10-05T14:07:49.728Z Object doesn't exist
+2021-10-05T14:18:23.200Z Lucy12 was created successfully
