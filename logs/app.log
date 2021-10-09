@@ -1809,3 +1809,120 @@ Require stack:
 2021-10-05T14:07:46.545Z Object doesn't exist
 2021-10-05T14:07:49.728Z Object doesn't exist
 2021-10-05T14:18:23.200Z Lucy12 was created successfully
+2021-10-08T11:22:29.670Z The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2021-10-08T11:23:10.604Z The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2021-10-08T11:23:27.615Z The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2021-10-08T11:24:03.579Z The "path" argument must be of type string or an instance of Buffer or URL. Received undefined
+2021-10-08T11:24:20.704Z Object already exist
+2021-10-08T11:29:03.340Z Lucy122 was created successfully
+2021-10-08T13:47:40.502Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:48:17.920Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:48:57.587Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:49:24.063Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:49:44.830Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:50:16.828Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:50:19.220Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:50:30.097Z uncaughtException: Route.post() requires a callback function but got a [object Object]
+Error: Route.post() requires a callback function but got a [object Object]
+    at Route.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/route.js:202:15)
+    at Function.proto.<computed> [as post] (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/router/index.js:510:19)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:13:8)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+2021-10-08T13:50:51.858Z uncaughtException: createBoard is not defined
+ReferenceError: createBoard is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js:12:13)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:5:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-08T13:51:08.241Z Lucy123 was created successfully
+2021-10-08T13:55:33.033Z Lucy1234 was created successfully
+2021-10-08T14:03:35.564Z Object already exist
