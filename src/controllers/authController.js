@@ -1,9 +1,9 @@
-const userService = require("../users/user.service");
 const logger = require("../../config/winston");
+const AuthService = require("../services/authService");
 
 exports.login = async (req, res, next) => {
   try {
-    const user = await userService.authenticate(req.body);
+    const user = await AuthService.authenticate(req.body);
     if (!user) {
       res.status(400).json({ message: "Username or password is incorrect" });
     }

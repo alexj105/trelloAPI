@@ -1926,3 +1926,1095 @@ ReferenceError: createBoard is not defined
 2021-10-08T13:51:08.241Z Lucy123 was created successfully
 2021-10-08T13:55:33.033Z Lucy1234 was created successfully
 2021-10-08T14:03:35.564Z Object already exist
+2021-10-22T11:21:41.608Z uncaughtException: Invalid shorthand property initializer
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:5
+ getAllBoard =function(){
+ ^^^^^^^^^^^^^^^^^^^^^^^^
+
+SyntaxError: Invalid shorthand property initializer
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T11:25:23.627Z Object already exist
+2021-10-22T11:25:34.312Z Lucy12324 was created successfully
+2021-10-22T11:49:32.593Z boards is not defined
+2021-10-22T11:49:49.066Z boards is not defined
+2021-10-22T11:50:20.622Z boards is not defined
+2021-10-22T11:50:37.979Z boards is not defined
+2021-10-22T11:54:07.032Z BoardService.findByName is not a function
+2021-10-22T11:54:35.198Z boards is not defined
+2021-10-22T11:55:12.110Z boards is not defined
+2021-10-22T11:55:41.328Z boards is not defined
+2021-10-22T11:56:27.794Z boards is not defined
+2021-10-22T12:30:37.974Z uncaughtException: Unexpected token 'else'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:33
+     else{
+     ^^^^
+
+SyntaxError: Unexpected token 'else'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T12:31:51.309Z boards is not defined
+2021-10-22T12:35:35.537Z Object is already exist
+2021-10-22T12:35:37.851Z Object is already exist
+2021-10-22T12:35:38.968Z Object is already exist
+2021-10-22T12:35:39.794Z Object is already exist
+2021-10-22T12:35:40.601Z Object is already exist
+2021-10-22T12:35:41.389Z Object is already exist
+2021-10-22T12:36:34.171Z Object is already exist
+2021-10-22T12:58:40.438Z Object is already exist
+2021-10-22T12:58:55.026Z Object is already exist
+2021-10-22T12:59:04.199Z Object is already exist
+2021-10-22T12:59:16.349Z Object is already exist
+2021-10-22T13:00:34.051Z Object is already exist
+2021-10-22T13:00:53.045Z Object is already exist
+2021-10-22T13:01:25.764Z Object is already exist
+2021-10-22T13:02:16.448Z Object is already exist
+2021-10-22T13:03:05.084Z Object is already exist
+2021-10-22T13:20:34.981Z Object is already exist
+2021-10-22T13:21:15.357Z Object is already exist
+2021-10-22T13:24:46.505Z Lucy12322 doesn't exist
+2021-10-22T13:28:12.845Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:53
+const delete = ()=>{
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:28:50.893Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:53
+const delete = ()=>{
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:28:59.964Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:53
+const delete = () => {
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:29:03.909Z uncaughtException: Unexpected token '}'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:56
+module.exports = { findByName, getAllBoards, create,delete };
+                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:29:16.847Z uncaughtException: Unexpected token '}'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:56
+module.exports = { findByName, getAllBoards, create,delete };
+                                                           ^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:29:27.902Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:53
+const delete = () => {
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:29:33.272Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:29
+const delete = () => {
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:29:49.378Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:30
+const delete = (board) => {
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:30:08.222Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:30
+const delete = (board) => {
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:30:32.512Z uncaughtException: Unexpected token 'delete'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:53
+const delete = () => {};
+      ^^^^^^
+
+SyntaxError: Unexpected token 'delete'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:30:57.144Z uncaughtException: Missing initializer in const declaration
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:30
+const create
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:31:01.912Z uncaughtException: Missing initializer in const declaration
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:30
+const create
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:31:12.276Z uncaughtException: Missing initializer in const declaration
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:30
+const create
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:31:18.860Z uncaughtException: Missing initializer in const declaration
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:30
+const create
+      ^^^^^^
+
+SyntaxError: Missing initializer in const declaration
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:43:08.801Z uncaughtException: Unexpected token 'const'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:57
+    return board.name == const deleteBoard = (boardName) => {
+                         ^^^^^
+
+SyntaxError: Unexpected token 'const'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:44:15.303Z uncaughtException: Unexpected token '}'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:61
+};
+^
+
+SyntaxError: Unexpected token '}'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-22T13:48:58.304Z admin logged in
+2021-10-22T13:49:14.459Z boards is not defined
+2021-10-22T13:50:00.769Z Lucy123 was deleted successfully
+2021-10-22T13:50:02.527Z Object doesn't exist
+2021-10-22T13:50:04.015Z Object doesn't exist
+2021-10-22T13:55:27.739Z NY was updated successfully
+2021-10-22T13:56:17.449Z Minsk14 was updated successfully
+2021-10-22T13:56:29.840Z Minsk14 was deleted successfully
+2021-10-22T13:56:34.942Z Minsk18 was updated successfully
+2021-10-22T13:57:22.142Z Minsk14 was updated successfully
+2021-10-22T13:57:29.399Z Minsk14 was deleted successfully
+2021-10-22T13:57:31.943Z Object doesn't exist
+2021-10-22T13:57:33.100Z Object doesn't exist
+2021-10-22T13:57:34.074Z Object doesn't exist
+2021-10-22T13:57:39.115Z Object doesn't exist
+2021-10-22T13:57:58.576Z a1dasdsd2asdas was deleted successfully
+2021-10-22T13:58:04.947Z Object doesn't exist
+2021-10-22T13:58:11.583Z Object doesn't exist
+2021-10-22T14:05:41.907Z Lucy214312 doesn't exist
+2021-10-25T07:58:04.946Z Board was not founded
+2021-10-25T07:58:44.334Z Board was not founded
+2021-10-25T07:58:45.827Z Board was not founded
+2021-10-25T07:59:12.657Z Board was not founded
+2021-10-25T08:00:41.432Z CardService.create is not a function
+2021-10-25T08:10:22.099Z Object already exist
+2021-10-25T08:14:55.992Z getAllBoards is not a function
+2021-10-25T08:15:21.539Z getAllBoards is not a function
+2021-10-25T08:15:58.571Z BoardService.getAllBoards is not a function
+2021-10-25T08:16:25.026Z BoardService.getAllBoards is not a function
+2021-10-25T08:17:45.683Z BoardService is not defined
+2021-10-25T08:17:57.822Z getAllBoards is not a function
+2021-10-25T08:18:07.665Z getAllBoards is not a function
+2021-10-25T08:18:31.272Z uncaughtException: Cannot find module '../services/boardService'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../services/boardService'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/boards.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T08:19:18.966Z getAllBoards is not a function
+2021-10-25T08:20:25.595Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T08:22:18.828Z getAllBoards is not a function
+2021-10-25T08:23:04.249Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T08:23:04.733Z getAllBoards is not a function
+2021-10-25T08:23:25.444Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T08:23:25.470Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T08:23:27.142Z getAllBoards is not defined
+2021-10-25T08:24:32.054Z getAllBoards is not defined
+2021-10-25T08:24:45.476Z getAllBoards is not defined
+2021-10-25T08:25:12.342Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T08:26:23.752Z getAllBoards is not defined
+2021-10-25T08:27:49.481Z getAllBoards is not defined
+2021-10-25T08:28:14.825Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T08:28:22.678Z getAllBoards is not defined
+2021-10-25T08:29:01.082Z getAllBoards is not defined
+2021-10-25T08:31:04.936Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T08:34:57.513Z getBoardCards is not defined
+2021-10-25T08:35:15.029Z getAllBoards is not defined
+2021-10-25T08:35:36.201Z getAllBoards is not defined
+2021-10-25T08:35:44.154Z getAllBoards is not defined
+2021-10-25T08:39:44.928Z getAllBoards is not defined
+2021-10-25T08:43:04.072Z boards is not defined
+2021-10-25T08:43:15.686Z boards is not defined
+2021-10-25T08:43:43.628Z uncaughtException: Missing initializer in destructuring declaration
+/home/alex/learn/:ItechArt/trelloAPI/src/services/cardService.js:3
+const {getAllBoards}
+      ^^^^^^^^^^^^^^
+
+SyntaxError: Missing initializer in destructuring declaration
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:3:25)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:44:09.827Z boards is not defined
+2021-10-25T08:44:16.439Z getAllBoards is not a function
+2021-10-25T08:44:51.866Z uncaughtException: getBoardCards is not defined
+ReferenceError: getBoardCards is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:117:3)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:45:05.570Z getAllBoards is not a function
+2021-10-25T08:45:14.961Z getAllBoards is not a function
+2021-10-25T08:45:16.710Z getAllBoards is not a function
+2021-10-25T08:45:22.967Z getAllBoards is not a function
+2021-10-25T08:47:24.582Z getAllBoards is not defined
+2021-10-25T08:47:51.633Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:47:57.707Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:48:05.331Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:48:12.130Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:48:25.031Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:48:32.743Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:48:35.439Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:48:46.044Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:48:53.444Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:49:20.048Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:50:36.530Z uncaughtException: Identifier 'getAllCards' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:16
+const getAllCards = () => {
+      ^
+
+SyntaxError: Identifier 'getAllCards' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:51:07.470Z getAllBoards is not defined
+2021-10-25T08:51:41.568Z getAllBoards is not defined
+2021-10-25T08:52:01.597Z getAllBoards is not defined
+2021-10-25T08:52:17.181Z getAllBoards is not defined
+2021-10-25T08:52:36.752Z uncaughtException: getAllCards is not defined
+ReferenceError: getAllCards is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/cardService.js:52:20)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/cardsController.js:4:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:52:48.778Z uncaughtException: getAllCards is not defined
+ReferenceError: getAllCards is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/cardService.js:52:20)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/cardsController.js:4:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:52:57.007Z uncaughtException: getAllCards is not defined
+ReferenceError: getAllCards is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/cardService.js:52:20)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/cardsController.js:4:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:53:05.894Z Object already exist
+2021-10-25T08:53:54.000Z getAllBoards is not a function
+2021-10-25T08:54:09.973Z getAllBoards is not a function
+2021-10-25T08:54:35.511Z getAllBoards is not a function
+2021-10-25T08:54:50.557Z getAllBoards is not a function
+2021-10-25T08:54:59.498Z uncaughtException: getAllBoards is not defined
+ReferenceError: getAllBoards is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:116:3)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:55:10.057Z getAllBoards2 is not a function
+2021-10-25T08:55:39.249Z getAllCards2 is not defined
+2021-10-25T08:55:40.732Z getAllCards2 is not defined
+2021-10-25T08:55:47.359Z getAllBoards2 is not defined
+2021-10-25T08:56:38.613Z lalalala is not a function
+2021-10-25T08:58:08.433Z getAllCards2 is not a function
+2021-10-25T08:58:22.837Z getAllCards2 is not a function
+2021-10-25T08:58:34.184Z getAllCards2 is not a function
+2021-10-25T08:59:04.137Z getAllCards28 is not a function
+2021-10-25T08:59:32.650Z uncaughtException: Unexpected token '{'
+/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:5
+const getAllCards28 = function {
+                               ^
+
+SyntaxError: Unexpected token '{'
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T08:59:41.461Z getAllCards28 is not a function
+2021-10-25T08:59:50.982Z uncaughtException: getAllCards2 is not defined
+ReferenceError: getAllCards2 is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:116:3)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T09:00:02.713Z getAllCards28 is not a function
+2021-10-25T09:01:35.396Z getAllBoards is not a function
+2021-10-25T09:05:22.872Z getAllBoards is not a function
+2021-10-25T09:10:40.193Z getAllBoards is not a function
+2021-10-25T09:34:27.101Z getAllBoards is not a function
+2021-10-25T09:35:54.992Z getAllBoards is not a function
+2021-10-25T09:50:03.281Z uncaughtException: listen EADDRINUSE: address already in use :::3000
+Error: listen EADDRINUSE: address already in use :::3000
+    at Server.setupListenHandle [as _listen2] (net.js:1316:16)
+    at listenInCluster (net.js:1364:12)
+    at Server.listen (net.js:1450:7)
+    at Function.listen (/home/alex/learn/:ItechArt/trelloAPI/node_modules/express/lib/application.js:618:24)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/app.js:18:5)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Function.executeUserEntryPoint [as runMain] (internal/modules/run_main.js:60:12)
+2021-10-25T09:51:02.584Z getAllBoards is not a function
+2021-10-25T09:52:15.572Z myFunct is not a function
+2021-10-25T09:53:58.008Z Object already exist
+2021-10-25T09:54:37.392Z myFunct is not a function
+2021-10-25T09:55:07.950Z Object already exist
+2021-10-25T09:55:18.365Z myFunct is not a function
+2021-10-25T09:56:10.992Z getAllBoards is not a function
+2021-10-25T09:56:29.483Z uncaughtException: getBoardCards is not defined
+ReferenceError: getBoardCards is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:116:3)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/boardsController.js:3:22)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T09:56:54.744Z Object already exist
+2021-10-25T09:57:35.746Z getAllBoards is not a function
+2021-10-25T09:58:31.425Z getAllBoards is not a function
+2021-10-25T10:41:08.736Z getAllBoards is not a function
+2021-10-25T10:54:27.484Z Object already exist
+2021-10-25T10:59:41.946Z uncaughtException: Identifier 'create' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/cardService.js:51
+const create = (card) => {
+      ^
+
+SyntaxError: Identifier 'create' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:3:25)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T11:00:41.846Z uncaughtException: Identifier 'create' has already been declared
+/home/alex/learn/:ItechArt/trelloAPI/src/services/cardService.js:51
+const create = (card) => {
+      ^
+
+SyntaxError: Identifier 'create' has already been declared
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/boardService.js:3:25)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T11:04:22.785Z cardName is not defined
+2021-10-25T11:05:19.381Z Object doesn't exist
+2021-10-25T11:06:40.070Z Object doesn't exist
+2021-10-25T11:06:47.676Z cardName is not defined
+2021-10-25T11:07:03.659Z Object doesn't exist
+2021-10-25T11:07:16.508Z Card doesn't exist
+2021-10-25T11:07:33.373Z card is not defined
+2021-10-25T11:08:16.030Z Card doesn't exist
+2021-10-25T11:08:47.463Z newCard is not defined
+2021-10-25T11:09:18.782Z Object already exist
+2021-10-25T11:09:46.632Z result is not defined
+2021-10-25T11:10:39.651Z Card doesn't exist
+2021-10-25T11:10:44.613Z Object doesn't exist
+2021-10-25T11:10:49.443Z lucies board1 was created successfully
+2021-10-25T11:10:49.444Z isBoardForCardExist is not defined
+2021-10-25T11:10:52.744Z lucies board1 was deleted successfully
+2021-10-25T11:10:54.976Z Card doesn't exist
+2021-10-25T11:11:00.111Z lucies board1 was created successfully
+2021-10-25T11:11:00.123Z isBoardForCardExist is not defined
+2021-10-25T11:41:45.884Z Card is not defined
+2021-10-25T11:42:03.302Z Card is not defined
+2021-10-25T11:42:13.780Z Card doesn't exist
+2021-10-25T11:42:40.076Z Object already exist
+2021-10-25T11:42:54.280Z lucies board1 was deleted successfully
+2021-10-25T11:42:59.629Z lucies board1 was created successfully
+2021-10-25T11:42:59.636Z isBoardForCardExist is not defined
+2021-10-25T11:43:01.917Z Object already exist
+2021-10-25T11:43:16.412Z Card was updated successfully
+2021-10-25T11:45:37.432Z Lucy was updated successfully
+2021-10-25T11:49:48.316Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:49:50.815Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:50:00.730Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:50:17.623Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:50:37.260Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:50:56.730Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:51:02.529Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:51:18.983Z uncaughtException: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+Error: Cannot find module '../users/user.service'
+Require stack:
+- /home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js
+- /home/alex/learn/:ItechArt/trelloAPI/src/routes/auth.js
+- /home/alex/learn/:ItechArt/trelloAPI/app.js
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:815:15)
+    at Function.Module._resolveFilename (/home/alex/learn/:ItechArt/trelloAPI/node_modules/module-alias/index.js:49:29)
+    at Function.Module._load (internal/modules/cjs/loader.js:667:27)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:1:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+2021-10-25T11:51:49.044Z login is not defined
+2021-10-25T11:52:20.993Z uncaughtException: await is only valid in async function
+/home/alex/learn/:ItechArt/trelloAPI/src/services/authService.js:22
+    const user = await authenticate(userData);
+                 ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T11:52:23.989Z uncaughtException: await is only valid in async function
+/home/alex/learn/:ItechArt/trelloAPI/src/services/authService.js:22
+    const user = await authenticate(userData);
+                 ^^^^^
+
+SyntaxError: await is only valid in async function
+    at wrapSafe (internal/modules/cjs/loader.js:915:16)
+    at Module._compile (internal/modules/cjs/loader.js:963:27)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T11:52:51.183Z logger is not defined
+2021-10-25T11:53:12.527Z logger is not defined
+2021-10-25T11:53:22.753Z res is not defined
+2021-10-25T11:54:02.624Z uncaughtException: login is not defined
+ReferenceError: login is not defined
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/services/authService.js:40:3)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+    at Module.load (internal/modules/cjs/loader.js:863:32)
+    at Function.Module._load (internal/modules/cjs/loader.js:708:14)
+    at Module.require (internal/modules/cjs/loader.js:887:19)
+    at require (internal/modules/cjs/helpers.js:74:18)
+    at Object.<anonymous> (/home/alex/learn/:ItechArt/trelloAPI/src/controllers/authController.js:2:21)
+    at Module._compile (internal/modules/cjs/loader.js:999:30)
+    at Object.Module._extensions..js (internal/modules/cjs/loader.js:1027:10)
+2021-10-25T11:54:22.303Z admin logged in
+2021-10-25T11:54:40.277Z Object doesn't exist
+2021-10-25T11:54:54.113Z Lucy12324 was deleted successfully

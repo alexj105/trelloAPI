@@ -26,7 +26,7 @@ router.delete(
 );
 
 router.patch(
-  "/board/:name",
+  "/board/update/:name",
   validation(BoardSchema, "board"),
   boardsController.updateBoard
 );
